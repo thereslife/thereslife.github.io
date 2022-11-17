@@ -15,3 +15,5 @@ This site will include status updates for if the Mastodon instance is down for e
 2022-11-16 19:30 CST: Upgrade is complete. There's Life is now running v4.0.2+glitch.
 
 2022-11-17 07:37 CST: After upgrade, server locked up after a few hours. Working on issue.
+
+2022-11-17 09:46 CST: Issues resolved with loading There's Life after the upgrade. 
