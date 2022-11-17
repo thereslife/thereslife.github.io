@@ -13,3 +13,5 @@ This site will include status updates for if the Mastodon instance is down for e
 2022-11-16 18:50 CST: Upgrade of the server is starting. This site will be updated once the upgrade is complete. 
 
 2022-11-16 19:30 CST: Upgrade is complete. There's Life is now running v4.0.2+glitch.
+
+2022-11-17 07:37 CST: After upgrade, server locked up after a few hours. Working on issue.
