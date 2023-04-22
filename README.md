@@ -3,6 +3,9 @@
 Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
+
+2023-04-21 20:15 CST: Still having problems with getting There's Life going. Sorry for the inconvenence. 
+
 2023-04-21 17:05 CST: The VPS provider, Hetzner, did some maintenace recently and There's Life has not been stable since then. Currently trying to get it back online. Thank you for your patience. 
 
 2023-04-12 16:30 CST: The VPS provider did some maintenance and it kicked our server offline. Instance is now powered back on. Sorry for the inconvenience.
