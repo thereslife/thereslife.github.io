@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2023-7-5 20:46 CST: Server update is complete.
+
 2023-7-5 20:25 CST: Beginning server update.
 
 2023-7-5 19:21 CST: A There's Life server update will begin in roughly 1 hour.
