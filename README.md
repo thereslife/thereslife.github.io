@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2023-7-5 19:21 CST: A There's Life server update will begin in roughly 1 hour.
+
 2023-4-23 17:05 CST: There's Life is now online. There's Life was able to increase the server volume today and therefore our database has  room to grow again. I really do appreciate your patience over the last few days and am sorry for the inconvenience. We are in a better spot for longevity because of the work put in over the last few days.
 
 2023-4-23 15:00CST : There's Life went offline. I am working towards moving the database to a larger volume.
