@@ -4,6 +4,10 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2024-9-5 18:35 CST: Server update complete.
+
+2024-9-5 18:28 CST: Server is rebooting.
+
 2024-9-5 17:35 CST: Beginning Server update.
 
 2024-6-5 19:04 CST: Server is down at the moment. A server update failed. Currently working to resolve.
