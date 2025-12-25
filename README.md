@@ -4,7 +4,7 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
-2025-12-25 10:21 CST: I an aware of the server not working properly. I will work on getting it back online in my free time through out the holidays.
+2025-12-25 10:21 CST: I am aware of the server not working properly. I will work on getting it back online in my free time throughout the holidays.
 
 2024-9-5 18:35 CST: Server update complete.
 
