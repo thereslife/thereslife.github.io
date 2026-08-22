@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-08-22 08:13 CST: Server update will begin.
+
 2026-08-03 01:08 CST: Server Upgrade failed. Will restore the server and try again this week. 
 
 2026-08-02 21:41 CST: Ran into a glitch. Working thru it.
