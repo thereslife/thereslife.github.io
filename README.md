@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-09-04 06:25 CST: I am still working thru why the web services won't come on. I am so terribly sorry for this down time.
+
 2026-09-03 12:24 CST: It is known that the site is down and am currently working to get it back online.
 
 2026-08-22 13:08 CST: Still updating. The Glitch-soc version is still compiling. I walked away for a bit to start cleaning my garage, because I'm just a normie in the real world. It's coming along though. 
