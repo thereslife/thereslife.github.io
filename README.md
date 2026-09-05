@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-09-05 10:48 CST: I haven't given up. I am working on this while also being a attentive dad on holiday with the family. Thanks for understanding.
+
 2026-09-04 06:25 CST: I am still working thru why the web services won't come on. I am so terribly sorry for this down time.
 
 2026-09-03 12:24 CST: It is known that the site is down and am currently working to get it back online.
