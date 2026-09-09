@@ -4,6 +4,10 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-09-09 18:36 CST: Continued work on the server to get it stable and fully updated.
+
+2026-09-08 17:10 CST: System is back up and running. Some more work needs to be done. Will do that tomorrow. 
+
 2026-09-08 15:21 CST: I am working on this again today. I will get thru this. Again, my apolgies for the downtime. 
 
 2026-09-05 10:48 CST: I haven't given up. I am working on this while also being a attentive dad on holiday with the family. Thanks for understanding.
