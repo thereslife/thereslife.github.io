@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-09-28 05:08 CST: There's Life is still in need of repair. I have been away for family and work related reasons, but plan to continue to work on this throughout the next few weeks as time permits. I will start a secondary server in the interim while I work on repairing the original server. If repairs cannot be made, the secondary server will become the main server. More on this to come. If you have questions, please email me at lifenetwork@pm.me. 
+
 2026-09-09 18:36 CST: Continued work on the server to get it stable and fully updated.
 
 2026-09-08 17:10 CST: System is back up and running. Some more work needs to be done. Will do that tomorrow. 
