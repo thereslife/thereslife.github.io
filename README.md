@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-9-28 21:01 CST: I have created a temporary safe place for Christians and in the 'worse case scenario' it will take the place of the original site if I can't repair it. If you were a member of There's Life before the crash, please go to https://hey.theres.life/home and create an account using the same username and email address as before. If you have questions, please email me at lifenetwork@pm.me. 
+
 2026-09-28 05:08 CST: There's Life is still in need of repair. I have been away for family and work related reasons, but plan to continue to work on this throughout the next few weeks as time permits. I will start a secondary server in the interim while I work on repairing the original server. If repairs cannot be made, the secondary server will become the main server. More on this to come. If you have questions, please email me at lifenetwork@pm.me. 
 
 2026-09-09 18:36 CST: Continued work on the server to get it stable and fully updated.
