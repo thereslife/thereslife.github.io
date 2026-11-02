@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-11-02 06:40CST: The original server is still down, but I am still working on it. hey.theres.life is active, but is being affected by old domain block lists from theres.life. A new instance has been created. If you would like to create a new account please do so at a.gatherwell.social. Again, I am still trying to resolve the issues with original server.
+
 2026-10-09 16:07CST: Hey.theres.life will be down for a few hours as I relocate.
 
 2026-9-28 21:01 CST: I have created a temporary safe place for Christians and in the 'worse case scenario' it will take the place of the original site if I can't repair it. I am still planning on repairing the original site. If you were a member of There's Life before the crash, please go to https://hey.theres.life/home and create an account using the same username and email address as before. If you have questions, please email me at lifenetwork@pm.me. 
