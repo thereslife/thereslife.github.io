@@ -4,6 +4,8 @@ Join our Mastodon instance at https://theres.life
 
 This site will include status updates for if the Mastodon instance is down for everyone and why.
 
+2026-11-06 8:30amCST: Update to hey.theres.life was success. Beginning update at a.gatherwell.social
+
 2026-11-06 07:45amCST: Updating hey.theres.life
 
 2026-11-02 06:40CST: The original server is still down, but I am still working on it. hey.theres.life is active, but is being affected by old domain block lists from theres.life. A new instance has been created. If you would like to create a new account please do so at a.gatherwell.social. Again, I am still trying to resolve the issues with original server.
